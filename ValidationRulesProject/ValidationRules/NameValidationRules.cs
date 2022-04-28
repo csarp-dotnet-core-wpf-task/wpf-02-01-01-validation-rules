@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ValidationRulesProject.ValidationRules
 {
-    class GradeValidationRules
+    class NameValidationRules
     {
     }
 }
